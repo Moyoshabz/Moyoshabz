@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moyo /h1>
+<h1 align="center">Hi 👋, I'm Moyo </h1>
 <h3 align="center">I love Data, innovation and being able to impact business outcomes through the use of insightful analysis and visualizations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moyoshabz&label=Profile%20views&color=0e75b6&style=flat" alt="moyoshabz" /> </p>
