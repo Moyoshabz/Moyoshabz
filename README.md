@@ -1,5 +1,8 @@
+![Masterhead](https://www.infopulse.com/uploads/media/banner-1920x528-combining-data-analytics-and-ai-in-finance-benefits-and-use-cases.webp)
 <h1 align="center">Hi 👋, I'm Moyo </h1>
 <h3 align="center">I love Data, innovation and being able to impact business outcomes through the use of insightful analysis and visualizations.</h3>
+<img style="float: right;" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moyoshabz&label=Profile%20views&color=0e75b6&style=flat" alt="moyoshabz" /> </p>
 
