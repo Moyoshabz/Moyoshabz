@@ -1,6 +1,6 @@
 ![Masterhead](https://www.infopulse.com/uploads/media/banner-1920x528-combining-data-analytics-and-ai-in-finance-benefits-and-use-cases.webp)
 <h1 align="center">Hi 👋, I'm Moyo </h1>
-<h3 align="center"> love Data, innovation and being able to impact business outcomes through the use of insightful analysis and visualizations .</h3>
+<h3 align="center"> I love Data, innovation and being able to impact business outcomes through the use of insightful analysis and visualizations .</h3>
 <img style="float: right;" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 
